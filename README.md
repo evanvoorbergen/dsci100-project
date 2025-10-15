@@ -7,3 +7,4 @@ This is a sample line of my readme that I added locally (on my computer, not the
 We love GitHub
 
 This is another edit!
+Now this is a second line I've added locally.
