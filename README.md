@@ -1,10 +1,3 @@
-# dsci-100-project_template
+# dsci-100-project
 
-This repository is for the demo in DSCI100. A good readme lists all the files and what they all do/mean.
-
-This is a sample line of my readme that I added locally (on my computer, not the cloud)
-
-We love GitHub
-
-This is another edit!
-Now this is a second line I've added locally.
+This repository is for my DSCI100 project. It currently contains the individual project and some test files for seeing how GitHub and git work.
